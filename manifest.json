@@ -13,5 +13,6 @@
 	"permissions": [
 		"http://jira.aensys.hu/",
 		"https://jira.aensys.hu/"
-	]
+	],
+	"update_url": "http://lengyelzsolt.com/daily-jira-issues/updates.xml"
 }
