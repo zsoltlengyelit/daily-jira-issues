@@ -14,5 +14,5 @@
 		"http://jira.aensys.hu/",
 		"https://jira.aensys.hu/"
 	],
-	"update_url": "http://lengyelzsolt.com/daily-jira-issues/updates.xml"
+	"update_url": "https://raw.githubusercontent.com/zsoltlengyelit/daily-jira-issues/master/updates.xml"
 }
