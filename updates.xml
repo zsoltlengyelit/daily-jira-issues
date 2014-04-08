@@ -1,0 +1,5 @@
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+<app appid="kaejpfdkdncikpgjdbebkoephpafdiei">
+  <updatecheck codebase="https://github.com/zsoltlengyelit/daily-jira-issues/releases/download/1.0/daily-jira-issues-1.0.crx" version="1.0"/>
+</app>
+</gupdate>
